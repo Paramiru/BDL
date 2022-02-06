@@ -12,7 +12,7 @@ Tis smart contract implements a secure Matching Pennies game in Solidity ready t
 4. The winner will be computed and s/he will be able to retrieve the money.
 5. The game is resetted and can be played again.
 
-All the implementation details can be found in the <a href="https://github.com/Paramiru/MatchingPennies/blob/main/Matching%20Pennies%20details.pdf">coursework-document.pdf</a>
+All the implementation details can be found in the <a href="https://github.com/Paramiru/BlockchainCourse/blob/main/MatchingPennies/MatchingPenniesReport.pdf">coursework-document.pdf</a>
 
 ## BDL Token
 This folder contains the api for defining an ERC-20 token which can be bought, transferred and sold.
